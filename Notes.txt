@@ -1,0 +1,769 @@
+A personal portfolio website serves as an online showcase of your work, skills, achievements, and experiences. It's essentially a digital resume that allows you to 
+present yourself professionally to potential clients, employers, or collaborators. Here are the key components and features typically found in a personal portfolio website:
+
+1.Introduction/About Me Section: This section provides a brief introduction to who you are, your background, and your professional journey. It sets the tone for the rest of 
+the website and gives visitors an initial impression of your personality and expertise.
+
+2.Portfolio Showcase: This is the core of your website where you display examples of your work. It could include projects you've completed, designs you've created, apps you've 
+developed, articles you've written, or any other relevant work samples. Each item in your portfolio should be accompanied by a brief description highlighting its purpose, your 
+role, technologies used, and the outcome.
+
+3.Skills and Expertise: A section dedicated to listing your skills, technical expertise, and competencies. This can include programming languages, software tools, frameworks, and 
+any other relevant capabilities. You can present this information in bullet points or visual formats like progress bars or tag clouds.
+
+4.Resume/CV: Some portfolios include a downloadable version of your resume or curriculum vitae (CV). This document provides a more detailed overview of your educational background, 
+work experience, certifications, and achievements. It's typically available in PDF format for easy printing or offline viewing.
+
+5.Testimonials and References: If you have received positive feedback from clients, colleagues, or employers, showcasing testimonials can help build credibility and trust with visitors. 
+Including contact information for references (with their permission) can also be beneficial.
+
+6.Blog or Articles (Optional): If you regularly write about industry trends, share insights, or have published articles related to your field, a blog section can demonstrate your 
+thought leadership and expertise. It also helps in engaging visitors and encouraging return visits.
+
+7.Contact Information: Make it easy for visitors to get in touch with you. Include a contact form, email address, and links to your social media profiles (LinkedIn, Twitter, 
+GitHub, etc.). Consider adding a call-to-action (CTA) button for hiring inquiries or collaboration opportunities.
+
+8.Responsive Design: Ensure your portfolio website is responsive, meaning it looks and functions well across different devices and screen sizes (desktops, tablets, smartphones). 
+This accessibility is crucial as many visitors may view your site on mobile devices.
+
+9.Visual Design and Branding: The design of your portfolio should reflect your personal brand and style. Use a consistent color scheme, typography, and layout throughout the site. 
+Visual elements such as images, icons, and graphics can enhance the overall appeal and professionalism of your portfolio.
+
+10.Accessibility and SEO: Consider accessibility features like alt text for images and ensuring your site meets basic accessibility standards. 
+Implementing SEO (Search Engine Optimization) best practices can also help your portfolio rank higher in search engine results, making it easier for potential clients or 
+employers to find you online.
+
+Creating a personal portfolio website not only showcases your skills and accomplishments but also serves as a powerful tool for personal branding and professional networking 
+in the digital age. It's an opportunity to differentiate yourself and make a memorable impression on visitors seeking to learn more about your expertise and suitability for 
+projects or job opportunities.
+
+=======================================================================================================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=======================================================================================================================================================================================
+<h2 class="upper">Frontend</h2>
+            <div class="lower">
+                <div class="inner"><img class="pack" src="assets\gallery\HTML.png"       alt="">HTML       </div>
+                <div class="inner"><img class="pack" src="assets\gallery\Css.png"        alt="">CSS        </div>
+                <div class="inner"><img class="pack" src="assets\gallery\Javascript.png" alt="">Javascript </div>
+                <div class="inner"><img class="pack" src="assets\gallery\React Js.png"   alt="">React JS   </div>
+                <div class="inner"><img class="pack" src="assets\gallery\Next JS.png"    alt="">Next JS    </div>
+                <div class="inner"><img class="pack" src="assets\gallery\Figma.png"      alt="">Figma      </div>
+                <div class="inner"><img class="pack" src="assets\gallery\Bootstrap.png"  alt="">Bootstrap  </div>
+                <div class="inner"><img class="pack" src="assets\gallery\Tailwind.png"   alt="">Tailwind   </div>
+            </div> 
+        </div>
+
+        <div class="boxes">
+            <h2 class="upper">Backend</h2>
+            <div class="lower">
+                <div class="inner"><img class="pack" src="assets\gallery\C.png"         alt="">C         </div>
+                <div class="inner"><img class="pack" src="assets\gallery\C++.png"       alt="">C++       </div>
+                <div class="inner"><img class="pack" src="assets\gallery\Python.png"    alt="">Python    </div>
+                <div class="inner"><img class="pack" src="assets\gallery\SQL.jpeg"      alt="">SQL       </div>
+                <div class="inner"><img class="pack" src="assets\gallery\Php.png"       alt="">PHP       </div>
+                <div class="inner"><img class="pack" src="assets\gallery\Node Js.png"   alt="">Node JS   </div>
+                <div class="inner"><img class="pack" src="assets\gallery\Firebase.png"  alt="">Firebase  </div>
+                <div class="inner"><img class="pack" src="assets\gallery\Prisma.png"    alt="">Prisma    </div>
+                <div class="inner"><img class="pack" src="assets\gallery\Web3forms.png" alt="">Web3Forms </div>
+            </div> 
+        </div>
+
+        <div class="boxes">
+            <h2 class="upper">Others</h2>
+            <div class="lower">
+                <div class="inner"><img class="pack" src="assets\gallery\VS Code.png"            alt="">VS Code           </div>
+                <div class="inner"><img class="pack" src="assets\gallery\Github.jpeg"            alt="">Github            </div>
+                <div class="inner"><img class="pack" src="assets\gallery\MS Excel.png"           alt="">MS Excel          </div>
+                <div class="inner"><img class="pack" src="assets\gallery\MS Word.png"            alt="">MS Word           </div>
+                <div class="inner"><img class="pack" src="assets\gallery\Data Management.png"    alt="">Data Management   </div>
+                <div class="inner"><img class="pack" src="assets\gallery\Problem Solving.jpeg"   alt="">Problem Solving   </div>
+                <div class="inner"><img class="pack" src="assets\gallery\Graphic Designing.png"  alt="">Graphic Designing </div>
+            </div>
+=======================================================================================================================================================================================
+<div class="box tilt">
+            <img draggable="false" src="assets\gallery\Portfolio.png" alt="" />
+            <div class="content">
+                <div class="tag">
+                    <h3>Portfolio Website</h3>
+                </div>
+                <div class="desc">
+                    <div class="btns">
+                        <a href="#" class="btn" target="_blank"><i class="fas fa-eye"></i> View</a>
+                        <a href="#" class="btn" target="_blank">Code <i class="fas fa-code"></i></a>
+                    </div>
+            </div>
+           </div>
+        </div>
+      
+        <div class="box tilt">
+            <img draggable="false" src="assets\gallery\Social Media Website.png" alt="" />
+            <div class="content">
+                <div class="tag">
+                    <h3>Social Media Website</h3>
+                </div>
+                <div class="desc">
+                    <div class="btns">
+                        <a href="#" class="btn" target="_blank"><i class="fas fa-eye"></i> View</a>
+                        <a href="#" class="btn" target="_blank">Code <i class="fas fa-code"></i></a>
+                    </div>
+                </div>
+           </div>
+        </div>
+
+        <div class="box tilt">
+            <img draggable="false" src="assets\gallery\SaaS.png" alt="" />
+            <div class="content">
+                <div class="tag">
+                    <h3>SaaS Platform</h3>
+                </div>
+                <div class="desc">
+                    <div class="btns">
+                        <a href="#" class="btn" target="_blank"><i class="fas fa-eye"></i> View</a>
+                        <a href="#" class="btn" target="_blank">Code <i class="fas fa-code"></i></a>
+                    </div>
+                </div>
+           </div>
+        </div>
+
+        <div class="box tilt">
+            <img draggable="false" src="assets\gallery\E-Commerce Website.png" alt="" />
+            <div class="content">
+                <div class="tag">
+                    <h3>E-Comerce Website</h3>
+                </div>
+                <div class="desc">
+                    <div class="btns">
+                        <a href="#" class="btn" target="_blank"><i class="fas fa-eye"></i> View</a>
+                        <a href="#" class="btn" target="_blank">Code <i class="fas fa-code"></i></a>
+                    </div>
+                </div>
+           </div>
+        </div>
+
+        <div class="box tilt">
+            <img draggable="false" src="assets\gallery\SignINUP.jpeg" alt="" />
+            <div class="content">
+                <div class="tag">
+                    <h3>Sign In/Sign Up Form</h3>
+                </div>
+                <div class="desc">
+                    <div class="btns">
+                        <a href="#" class="btn" target="_blank"><i class="fas fa-eye"></i> View</a>
+                        <a href="#" class="btn" target="_blank">Code <i class="fas fa-code"></i></a>
+                    </div>
+                </div>
+           </div>
+        </div>
+
+        <div class="box tilt">
+            <img draggable="false" src="assets\gallery\Calculator.jpeg" alt="" />
+            <div class="content">
+                <div class="tag">
+                    <h3>Calculator</h3>
+                </div>
+                <div class="desc">
+                    <div class="btns">
+                        <a href="#" class="btn" target="_blank"><i class="fas fa-eye"></i> View</a>
+                        <a href="#" class="btn" target="_blank">Code <i class="fas fa-code"></i></a>
+                    </div>
+                </div>
+           </div>
+        </div>
