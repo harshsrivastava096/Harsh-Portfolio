@@ -24,7 +24,7 @@ Check out the live version of my portfolio here: **[Live Portfolio](https://hars
 | ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) | **HTML5**: For the clean and structured layout |
 | ![CSS3](https://img.icons8.com/color/48/000000/css3.png) | **CSS3**: For beautiful and responsive designs |
 | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | **JavaScript**: Adding interactivity and logic |
-![Web3 Forms](https://img.icons8.com/ios-filled/50/000000/form.png) | **Web3 Forms**: Secure, spam-free contact form integration for easy communication |
+| ![Web3 Forms](https://img.icons8.com/ios-filled/50/000000/form.png) | **Web3 Forms**: Secure, spam-free contact form integration for easy communication |
 | ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) | **Firebase Hosting**: For blazing-fast and reliable deployment |
 
 ## 📩 Get In Touch
